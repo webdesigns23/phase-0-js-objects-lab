@@ -1,7 +1,3 @@
-Sure, here is the revised lab exercise with the code snippets removed and a solution added at the end:
-
----
-
 ### Lab Exercise: Managing Event Attendees
 
 **Overview**
