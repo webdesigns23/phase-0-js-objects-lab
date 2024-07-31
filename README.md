@@ -13,7 +13,7 @@ Sure, here is the revised lab exercise with the code snippets removed and a solu
 **Tools and Resources**
 - **Tools:** Visual Studio Code (VSCode), Node.js
 - **Resources:** MDN Web Docs: Working with Objects, JavaScript 2 module content
-- **Setup:** Fork and clone the provided GitHub repository, and run `npm install` to set up the project locally.
+- **Setup:** Fork and clone the provided GitHub repository, and run `npm install` to set up the project locally. https://github.com/learn-co-curriculum/phase-0-js-objects-lab.git
 
 **Instructions**
 
